@@ -1,0 +1,128 @@
+{
+    "school": {
+        "id": "example",
+        "name": "示例学校"
+    },
+    "semester": {
+        "name": "2023年夏季学期",
+        "start": 20230701,
+        "end": 20230831,
+        "timetables": [
+            {
+                "name": "",
+                "start": 20230701,
+                "end": 20230831,
+                "periods": [
+                    {
+                        "type": "READY",
+                        "name": "预　备",
+                        "start": 750,
+                        "end": 800
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第一节",
+                        "start": 800,
+                        "end": 845
+                    },
+                    {
+                        "type": "BREAK",
+                        "name": "课　间",
+                        "start": 845,
+                        "end": 855
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第二节",
+                        "start": 855,
+                        "end": 940
+                    },
+                    {
+                        "type": "BREAK",
+                        "name": "课　间",
+                        "start": 940,
+                        "end": 1000
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第三节",
+                        "start": 1000,
+                        "end": 1045
+                    },
+                    {
+                        "type": "BREAK",
+                        "name": "课　间",
+                        "start": 1045,
+                        "end": 1055
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第四节",
+                        "start": 1055,
+                        "end": 1140
+                    },
+                    {
+                        "type": "READY",
+                        "name": "预　备",
+                        "start": 1420,
+                        "end": 1430
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第五节",
+                        "start": 1430,
+                        "end": 1515
+                    },
+                    {
+                        "type": "BREAK",
+                        "name": "课　间",
+                        "start": 1515,
+                        "end": 1525
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第六节",
+                        "start": 1525,
+                        "end": 1610
+                    },
+                    {
+                        "type": "BREAK",
+                        "name": "课　间",
+                        "start": 1610,
+                        "end": 1620
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第七节",
+                        "start": 1620,
+                        "end": 1705
+                    },
+                    {
+                        "type": "BREAK",
+                        "name": "课　间",
+                        "start": 1705,
+                        "end": 1715
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第八节",
+                        "start": 1715,
+                        "end": 1800
+                    },
+                    {
+                        "type": "READY",
+                        "name": "预　备",
+                        "start": 1850,
+                        "end": 1900
+                    },
+                    {
+                        "type": "CLASS",
+                        "name": "第九节",
+                        "start": 1900,
+                        "end": 2100
+                    }
+                ]
+            }
+        ]
+    }
+}
