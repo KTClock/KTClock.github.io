@@ -4,14 +4,14 @@
         "name": "示例学校"
     },
     "semester": {
-        "name": "2024年春季学期",
-        "start": 20240223,
-        "end": 20240707,
+        "name": "2024年秋季学期",
+        "start": 20240826,
+        "end": 20250112,
         "timetables": [
             {
                 "name": "",
-                "start": 20240223,
-                "end": 20240707,
+                "start": 20240826,
+                "end": 20250112,
                 "periods": [
                     {
                         "type": "READY",
